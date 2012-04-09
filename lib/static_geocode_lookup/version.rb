@@ -1,0 +1,3 @@
+module StaticGeocodeLookup
+  VERSION = "1.0.0"
+end
